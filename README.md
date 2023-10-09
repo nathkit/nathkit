@@ -1,8 +1,4 @@
 ### Hi there 👋
-
-<div align="center">
-<img src="" align="center" style="width: 100%" />
-</div>  
   
 
 ### <div align="center">I'm Nathkit (NaeNe') a full-stack developer 👨‍💻 start since 2023 🚀</div>  
